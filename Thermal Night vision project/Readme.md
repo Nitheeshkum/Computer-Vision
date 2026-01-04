@@ -1,10 +1,10 @@
-# 🔥 THERMAL NIGHT VISION FACIAL RECOGNITION & ALERT SYSTEM  
+# 🔥 AUTOMATED FACE RECOGNITION AND SECURITY ALERT SYSTEM 
 
 ## 📌 PROJECT DESCRIPTION  
 
-A real-time thermal detection and facial recognition system built with **YOLOv8 segmentation**, **OpenCV**, **Face Recognition library**, and a **Gradio-based live video interface**.  
+A real-time AUTOMATED FACE RECOGNITION AND SECURITY ALERT SYSTEM  built with **YOLOv8 segmentation**, **OpenCV**, **Face Recognition library**, and a **Gradio-based live video interface**.  
 
-This system applies a dynamic thermal effect to detected human figures, recognizes known faces from a stored database, and triggers alert sounds when unknown persons are detected.
+This system applies a dynamic  detection human figures, recognizes known faces from a stored database, and triggers alert sounds when unknown persons are detected.
 
 ---
 
@@ -24,7 +24,6 @@ This system applies a dynamic thermal effect to detected human figures, recogniz
 
 ✅ Real-time webcam streaming  
 ✅ Human detection using YOLOv8 segmentation  
-✅ Thermal color mapping on detected human regions  
 ✅ Face recognition for known persons from stored images  
 ✅ Dynamic brightness adjustment in low-light conditions  
 ✅ Alert sound for unrecognized individuals  
